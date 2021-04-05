@@ -1,6 +1,6 @@
 const usuarios = {
     listarUsuarios: () => {
-        return ['Ana', 'Laura', 'Bruna', 'Amanda'];
+        return ['Ana', 'Laura', 'Bruna', 'Amanda']
     }
 }
 
